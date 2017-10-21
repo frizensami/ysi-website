@@ -25,7 +25,7 @@
 --------------------*/
 
 /* This is the single variable that controls them all */
-@emSize   : 14px;
+@emSize   : 16px;
 
 /* The size of page text  */
 @fontSize : 14px;
@@ -60,7 +60,7 @@
 @headerFontWeight : bold;
 @headerLineHeight : unit((18 / 14), em);
 
-@h1 : unit((28 / 14), rem);
+@h1 : unit((50 / 14), rem);
 @h2 : unit((24 / 14), rem);
 @h3 : unit((18 / 14), rem);
 @h4 : unit((15 / 14), rem);
@@ -221,7 +221,7 @@
 @olive            : #B5CC18;
 @green            : #21BA45;
 @teal             : #00B5AD;
-@blue             : #2185D0;
+@blue             : #318ba2;
 @violet           : #6435C9;
 @purple           : #A333C8;
 @pink             : #E03997;
