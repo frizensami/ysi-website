@@ -602,7 +602,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.28571429rem;
+  font-size: 1.14285714rem;
 }
 
 h4 {
@@ -6791,7 +6791,7 @@ h2.ui.header {
 }
 
 h3.ui.header {
-  font-size: 1.28571429rem;
+  font-size: 1.14285714rem;
 }
 
 h4.ui.header {
@@ -6838,7 +6838,7 @@ h5.ui.header .sub.header {
 }
 
 .ui.medium.header {
-  font-size: 1.28571429em;
+  font-size: 1.14285714em;
 }
 
 .ui.small.header {
@@ -7463,7 +7463,7 @@ a.ui.inverted.grey.header:hover {
 --------------------*/
 
 .ui.header:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
-  font-size: 1.28571429em;
+  font-size: 1.14285714em;
 }
 
 /*******************************
